@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/passportappointmentsystem/database/migrations/2018_04_17_115959_create_articles_table.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/routes/web.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/resources/views/articles/edit.blade.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/app/Http/Controllers/ArticleController.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/app/Article.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/database/seeds/ArticlesTableSeeder.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/resources/views/articles/form.blade.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/resources/views/articles/show.blade.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/resources/views/articles/index.blade.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/config/app.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/public/index.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/.env</file>
+            <file>file:/var/www/html/passportappointmentsystem/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/resources/views/layout.blade.php</file>
+            <file>file:/var/www/html/passportappointmentsystem/resources/views/articles/create.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
